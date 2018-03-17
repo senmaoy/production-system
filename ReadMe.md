@@ -24,4 +24,5 @@ Set.add                                        往集合中增加元素
 Set.remove                                     从集合中移除元素
 Set.isSubset                                     判断是否为子集
 四、	实验结果
+https://github.com/senmaoy/production-system/blob/master/%E5%8A%A8%E7%89%A9%E6%9F%A5%E8%AF%A2%E7%B3%BB%E7%BB%9F.png
 
